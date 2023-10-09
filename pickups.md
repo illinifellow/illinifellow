@@ -1,6 +1,6 @@
-![pickups](https://github.com/illinifellow/illinifellow/assets/5318928/fe690488-69d8-43ac-a5ab-04dc074f027a)
-
 # Pickups
+
+![pickups](https://github.com/illinifellow/illinifellow/assets/5318928/fe690488-69d8-43ac-a5ab-04dc074f027a)
 
 Ніколи не думав серйозно про пікапи.
 
