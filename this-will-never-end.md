@@ -1,4 +1,4 @@
-![wtf]([https://github.com/illinifellow/illinifellow/assets/5318928/f4a0199e-f626-4edd-a7b0-abe690b77257](https://github-production-user-asset-6210df.s3.amazonaws.com/5318928/277845822-f4a0199e-f626-4edd-a7b0-abe690b77257.jpeg))
+![wtf](https://github-production-user-asset-6210df.s3.amazonaws.com/5318928/277845822-f4a0199e-f626-4edd-a7b0-abe690b77257.jpeg)
 
 # This likely will never end
 
