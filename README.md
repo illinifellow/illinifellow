@@ -1,3 +1,5 @@
-# Hi! 👋🏻 I'm a software engineer armed with over a decade's worth of hands-on experience in web magic ✨
+# 👋🏻 Hi!  
 
-I specialize in helping startups unleash their full potential by creating elegant, sturdy, and scalable software solutions - from MVPs to full-scale apps and beyond, that help businesses emerge, grow rapidly and reach the highest goals.
+I'm a fullstack software engineer with more than ten years of experience in web magic ✨
+
+I help startups unleash their full potential by crafting elegant, sturdy, and scalable custom software solutions - from MVPs to full-scale products and beyond, that help businesses emerge, grow and reach the highest goals.
