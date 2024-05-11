@@ -33,7 +33,7 @@ I help startups unleash their full potential by crafting elegant, sturdy, and sc
   </tr>
   <tr>
     <td>
-      <h4><img src="https://github.com/illinifellow/illinifellow/assets/5318928/dc3a34b8-6531-4af1-bc8c-78535387f5e6" height="14px"> SYSTEM ARCHITECTURE</h4>
+      <h4><img src="https://github.com/illinifellow/illinifellow/assets/5318928/26e608ca-5ffd-4ad6-a78c-604cec82cc81" height="14px"> SYSTEM ARCHITECTURE</h4>
       Software doesn't exist in a vacuum. It needs a database,
       firewalls, electro-conspicutators and many other components that
       form the bigger picture. You need someone that knows what the heck
