@@ -5,7 +5,6 @@
 I help startups unleash their full potential by crafting elegant, sturdy, and scalable custom software solutions - from MVPs to full-scale products and beyond, that help businesses emerge, grow and reach the highest goals.
 
 ### HERE'S HOW I CAN HELP YOU
-
 <table>
   <tr>
     <td>
@@ -16,7 +15,7 @@ I help startups unleash their full potential by crafting elegant, sturdy, and sc
       and scale. In a nutshell: I'm your backend.
     </td>
     <td>
-      <h4><img src="https://github.com/illinifellow/illinifellow/assets/5318928/3b4b050b-89c4-4f2e-97c3-367dc355c8d4" height="16px">FRONTEND SOFTWARE DEVELOPMENT</h4>
+      <h4><img src="https://github.com/illinifellow/illinifellow/assets/5318928/2ae96147-50d3-495a-942e-744a830691ee" height="16px">FRONTEND SOFTWARE DEVELOPMENT</h4>
       Frontend development is not just fun and games, it's hell, knives,
       forks, spoons, and serving plates all in one kitchen! Allow me to
       worry about all the complexities of your project. I will provide
@@ -24,7 +23,7 @@ I help startups unleash their full potential by crafting elegant, sturdy, and sc
       customers.
     </td>
     <td>
-      <h4><img src="https://github.com/illinifellow/illinifellow/assets/5318928/3b4b050b-89c4-4f2e-97c3-367dc355c8d4" height="16px">DEVOPS</h4>
+      <h4><img src="https://github.com/illinifellow/illinifellow/assets/5318928/2be5ae91-8fb0-4e1e-aa81-fa7af20a59bd" height="16px">DEVOPS</h4>
       Sometimes you just want to Netflix and chill, but other times you
       want to deliver software at high velocity to mercilessly beat down
       your competition. Yeah, I'm the guy that sets up your
@@ -34,21 +33,21 @@ I help startups unleash their full potential by crafting elegant, sturdy, and sc
   </tr>
   <tr>
     <td>
-      <h4><img src="https://github.com/illinifellow/illinifellow/assets/5318928/3b4b050b-89c4-4f2e-97c3-367dc355c8d4" height="16px">SYSTEM ARCHITECTURE</h4>
+      <h4><img src="https://github.com/illinifellow/illinifellow/assets/5318928/dc3a34b8-6531-4af1-bc8c-78535387f5e6" height="16px">SYSTEM ARCHITECTURE</h4>
       Software doesn't exist in a vacuum. It needs a database,
       firewalls, electro-conspicutators and many other components that
       form the bigger picture. You need someone that knows what the heck
       they're talking about here.
     </td>
     <td>
-      <h4><img src="https://github.com/illinifellow/illinifellow/assets/5318928/3b4b050b-89c4-4f2e-97c3-367dc355c8d4" height="16px">API DEVELOPMENT</h4>
+      <h4><img src="https://github.com/illinifellow/illinifellow/assets/5318928/2b920759-cada-4f61-9b28-173c2fdfba07" height="16px">API DEVELOPMENT</h4>
       It sounds technical, and it is. Your customers (might) love you
       more if you give them a way to interact with your software with
       their software. Whether it's REST, GraphQL or SOAP, look no
       further - I can make this happen.
     </td>
     <td>
-      <h4><img src="https://github.com/illinifellow/illinifellow/assets/5318928/3b4b050b-89c4-4f2e-97c3-367dc355c8d4" height="16px">FLUTTER MOBILE DEVELOPMENT</h4>
+      <h4><img src="https://github.com/illinifellow/illinifellow/assets/5318928/ccd829d6-379f-4f46-87f0-87e471c46915" height="16px">FLUTTER MOBILE DEVELOPMENT</h4>
       If it's the selfie generation that you are targeting, you'd better
       have a mobile application in place that delivers that instant
       Dopamine hit. I use Flutter to cost-effectively build fast mobile
