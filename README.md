@@ -37,7 +37,7 @@ I help startups unleash their full potential by crafting elegant, sturdy, and sc
     <td>
       <img src="https://github.com/illinifellow/illinifellow/assets/5318928/e03df630-b6aa-4d4b-b003-c21299964c48" height="14px" />
       <h4>Volunteering</h4>
-      In collaboration with <a href="https://instagram.com/international_aid_legion" target="_blank">International Aid Legion</a>, I focus on technical and logistics tasks in projects aimed at sourcing and delivering medical aid and equipment, ambulances and specialized evacuation transport. Over the past two years of the full-scale war in Ukraine, we have delivered tons of medical supplies and more than 200 vehicles, enabling the aid and evacuation of over 35,000 militaries, civilians and animals from combat zones.
+      In <a href="https://instagram.com/international_aid_legion" target="_blank">International Aid Legion</a>, I focus on tech and logistics in projects aimed at sourcing and delivering medical aid and equipment, ambulances and specialized/evacuation transport. During the years of the full-scale war in Ukraine, we have delivered tons of medical supplies and more than 200 vehicles, enabling providing aid to and evacuation of over 35,000 militaries, civilians and animals from combat zones.
     </td>
   </tr>
 </table>
