@@ -8,6 +8,11 @@ I help startups unleash their full potential by crafting elegant, sturdy, and sc
 <table>
   <tr>
     <td>
+      ???
+      <h4>Custom solutions engineering</h4>
+      I craft custom solutions for startups facing tight deadlines, limited resources and uncertain roadmaps. Whether it's a VR shopping experiences, advanced geospatial data visualization platform for real estate and urban development or a tool for visualizing AI-interpreted MRI studies for radiology, my engineering solutions help startups prove concepts and transform challenging scenarios into opportunities.
+    </td>
+    <td>
       <img src="https://github.com/illinifellow/illinifellow/assets/5318928/26e608ca-5ffd-4ad6-a78c-604cec82cc81" height="14px" />
       <h4>API & microservices development</h4>
       I specialize in crafting sophisticated API and microservices solutions using JavaScript and Python, ensuring seamless integration and scalable architecture. My strategic approach optimizes backend processes for efficiency and future growth, making your systems robust and adaptable.
@@ -17,11 +22,6 @@ I help startups unleash their full potential by crafting elegant, sturdy, and sc
       <h4>Frontend software development</h4>
       With expertise in ReactJS and NextJS, I create elegant and powerful user interfaces that not only attract but retain attention. My focus is on developing responsive, visually appealing, and user-friendly frontends that elevate the user experience and enhance interaction.
       customers.
-    </td>
-    <td>
-      ???
-      <h4>Custom solutions engineering</h4>
-      I craft custom solutions for startups facing tight deadlines, limited resources and uncertain roadmaps. Whether it's a VR shopping experiences, advanced geospatial data visualization platform for real estate and urban development or a tool for visualizing AI-interpreted MRI studies for radiology, my engineering solutions help startups prove concepts and transform challenging scenarios into opportunities.
     </td>
   </tr>
   <tr>
