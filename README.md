@@ -20,14 +20,14 @@ I help startups unleash their full potential by crafting elegant, sturdy, and sc
     <td>
       <img src="https://github.com/illinifellow/illinifellow/assets/5318928/501fcc38-2f9b-4f6f-9ced-1b78cb251753" height="14px" />
       <h4>API & microservices development</h4>
-      From drafting to delivering, I specialize in developing sophisticated APIs and microservices solutions using Javascript and/or Python, ensuring seamless integration and scalable architecture. My strategic approach optimizes backend processes for efficiency and future growth, making the system robust and adaptable ensuring a solid foundation for a product.
+      From a draft to delivery, I specialize in developing sophisticated APIs and microservices solutions using Javascript and/or Python, ensuring seamless integration and scalable architecture. My strategic approach optimizes backend processes for efficiency and future growth, making the system robust and adaptable and ensuring a solid foundation for a product.
     </td>
   </tr>
   <tr>
     <td>
       <img src="https://github.com/illinifellow/illinifellow/assets/5318928/ccd829d6-379f-4f46-87f0-87e471c46915" height="14px" />
       <h4>Mobile apps development</h4>
-      I build robust mobile applications for iOS and Android using the Expo ecosystem, focusing on dashboard tools that require round-the-clock management, immediate access and real-time notifications. I utilize Expo to cost-effectively build fast and reliable apps that are tailored to the specific needs of a service operations, ensuring a solid support or addition for a product.
+      I build robust mobile applications for iOS and Android using the Expo ecosystem, focusing on dashboard tools that require round-the-clock management, immediate access and real-time notifications. I utilize Expo to cost-effectively build fast and reliable apps that are tailored to the specific needs of a service operations, ensuring a solid support or addition to a product.
     </td>
     <td>
       <img src="https://github.com/illinifellow/illinifellow/assets/5318928/1a48979e-6334-4cdd-99df-d57e65cafc43" height="14px" />
