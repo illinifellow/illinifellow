@@ -20,7 +20,7 @@ I help startups unleash their full potential by crafting elegant, sturdy, and sc
     <td>
       <img src="https://github.com/illinifellow/illinifellow/assets/5318928/501fcc38-2f9b-4f6f-9ced-1b78cb251753" height="14px" />
       <h4>API & microservices development</h4>
-      From a draft to delivery, I specialize in developing sophisticated APIs and microservices solutions using Javascript and/or Python, ensuring seamless integration and scalable architecture. My strategic approach optimizes backend processes for efficiency and future growth, making the system robust and adaptable and ensuring a solid foundation for a product.
+      From draft to delivery, I specialize in developing sophisticated API and microservices solutions using JavaScript and/or Python, ensuring seamless integration and scalable architecture. My strategic approach optimizes backend processes for enhanced efficiency and future growth, making the system robust and adaptable, which lays a solid foundation for a product."
     </td>
   </tr>
   <tr>
