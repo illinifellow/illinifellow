@@ -9,55 +9,37 @@ I help startups unleash their full potential by crafting elegant, sturdy, and sc
   <tr>
     <td>
       <img src="https://github.com/illinifellow/illinifellow/assets/5318928/3b4b050b-89c4-4f2e-97c3-367dc355c8d4" height="14px" />
-      <h4>BACKEND SOFTWARE DEVELOPMENT</h4>
-      I set the foundation for long-term stability, performance,
-      and predictability. Using the latest tools and methodologies, I
-      continuously produce high-quality code that is easy to maintain
-      and scale. In a nutshell: I'm your backend.
+      <h4>API & microservices development</h4>
+      I specialize in crafting sophisticated API and microservices solutions using JavaScript and Python, ensuring seamless integration and scalable architecture. My strategic approach optimizes backend processes for efficiency and future growth, making your systems robust and adaptable.
     </td>
     <td>
       <img src="https://github.com/illinifellow/illinifellow/assets/5318928/2ae96147-50d3-495a-942e-744a830691ee" height="14px" />
-      <h4>FRONTEND SOFTWARE DEVELOPMENT</h4>
-      Frontend development is not just fun and games, it's hell, knives,
-      forks, spoons, and serving plates all in one kitchen! Allow me to
-      worry about all the complexities of your project. I will provide
-      you with the most beautiful experience possible for your
+      <h4>Frontend software development</h4>
+      With expertise in ReactJS and NextJS, I create elegant and powerful user interfaces that not only attract but retain attention. My focus is on developing responsive, visually appealing, and user-friendly frontends that elevate the user experience and enhance interaction.
       customers.
     </td>
     <td>
       <img src="https://github.com/illinifellow/illinifellow/assets/5318928/2be5ae91-8fb0-4e1e-aa81-fa7af20a59bd" height="14px" />
-      <h4>DEVOPS</h4>
-      Sometimes you just want to Netflix and chill, but other times you
-      want to deliver software at high velocity to mercilessly beat down
-      your competition. Yeah, I'm the guy that sets up your
-      infrastructure and deployment processes for fun... and um well
+      <h4>Custom solutions engineering</h4>
+      From drafting to delivery, I create custom solutions for startups in GIS, OSINT, healthcare sectors and beyond, who face tight deadlines, limited resources and uncertain roadmaps. Whether creating VR shopping experiences for furniture stores, developing advanced geospatial visualization platforms for real estate and urban development or designing tools for visualizing AI-interpreted data of MRI studies, my engineering solutions help startups prove concepts and transform challenging scenarios into opportunities for innovation.
       profit.|
     </td>
   </tr>
   <tr>
     <td>
       <img src="https://github.com/illinifellow/illinifellow/assets/5318928/26e608ca-5ffd-4ad6-a78c-604cec82cc81" height="14px" />
-      <h4>SYSTEM ARCHITECTURE</h4>
-      Software doesn't exist in a vacuum. It needs a database,
-      firewalls, electro-conspicutators and many other components that
-      form the bigger picture. You need someone that knows what the heck
-      they're talking about here.
+      <h4>Mobile apps development</h4>
+      I build robust mobile applications for iOS and Android using the Expo ecosystem, focusing on admin tools that require round-the-clock management, immediate access and real-time notifications. I utilize Expo to cost-effectively build fast, reliable apps that are tailored to the specific needs of your service operations.
     </td>
     <td>
       <img src="https://github.com/illinifellow/illinifellow/assets/5318928/2b920759-cada-4f61-9b28-173c2fdfba07" height="14px" />
-      <h4>API DEVELOPMENT</h4>
-      It sounds technical, and it is. Your customers (might) love you
-      more if you give them a way to interact with your software with
-      their software. Whether it's REST, GraphQL or SOAP, look no
-      further - I can make this happen.
+      <h4>Live streaming</h4>
+     As an experienced live streaming producer, editor, and engineer, I have managed dozens of successful projects ranging from live music to social broadcasts. I engineer custom streaming solutions using cutting-edge hardware and software technologies, ensuring smooth production and top-quality content delivery, regardless of scale and complexity.
     </td>
     <td>
       <img src="https://github.com/illinifellow/illinifellow/assets/5318928/ccd829d6-379f-4f46-87f0-87e471c46915" height="14px" />
-      <h4>FLUTTER MOBILE DEVELOPMENT</h4>
-      If it's the selfie generation that you are targeting, you'd better
-      have a mobile application in place that delivers that instant
-      Dopamine hit. I use Flutter to cost-effectively build fast mobile
-      apps for Android and iOS.
+      <h4>Volunteering</h4>
+      I collaborate with ialegion.com, focusing on technical tasks and logistics in projects aimed at sourcing and delivering medical aid and equipment. I also manage the sourcing and delivery of ambulances and specialized evacuation transport. Over the past two years of the full-scale war in Ukraine, we have delivered tons of medical supplies and more than 200 vehicles, enabling the aid and evacuation of over 35,000 military, civilians, and animals from combat zones.
     </td>
   </tr>
 </table>
