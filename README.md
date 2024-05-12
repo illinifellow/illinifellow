@@ -21,8 +21,7 @@ I help startups unleash their full potential by crafting elegant, sturdy, and sc
     <td>
       <img src="https://github.com/illinifellow/illinifellow/assets/5318928/2be5ae91-8fb0-4e1e-aa81-fa7af20a59bd" height="14px" />
       <h4>Custom solutions engineering</h4>
-      From drafting to delivery, I create custom solutions for startups in GIS, OSINT, healthcare sectors and beyond, who face tight deadlines, limited resources and uncertain roadmaps. Whether creating VR shopping experiences for furniture stores, developing advanced geospatial visualization platforms for real estate and urban development or designing tools for visualizing AI-interpreted data of MRI studies, my engineering solutions help startups prove concepts and transform challenging scenarios into opportunities for innovation.
-      profit.|
+      From drafting to delivery, I create custom solutions for startups faceing tight deadlines, limited resources and uncertain roadmaps. Whether creating VR shopping experiences, developing advanced geospatial data visualization platforms for real estate and urban development or tools for visualizing AI-interpreted data of MRI studies, my engineering solutions help startups prove concepts and transform challenging scenarios into opportunities.
     </td>
   </tr>
   <tr>
