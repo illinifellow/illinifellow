@@ -32,7 +32,7 @@ I help startups unleash their full potential by crafting elegant, sturdy, and sc
     <td>
       <img src="https://github.com/illinifellow/illinifellow/assets/5318928/1a48979e-6334-4cdd-99df-d57e65cafc43" height="14px" />
       <h4>Live streaming</h4>
-     As an experienced live streaming producer, editor, and engineer, I have managed dozens of successful projects ranging from live music to social broadcasts. I engineer custom streaming solutions using cutting-edge hardware and software technologies, ensuring smooth production and top-quality content delivery, regardless of scale and complexity.
+     As an experienced live streaming producer, editor, and engineer, in collaboration with <a href="https://www.instagram.com/khutko.pro">khutko team</a>, I have managed dozens of successful projects ranging from live music to social broadcasts and ads. I engineer and manage custom streaming solutions using cutting-edge hardware and software technologies, ensuring smooth production and top-quality content delivery, regardless of scale and complexity.
     </td>
     <td>
       <img src="https://github.com/illinifellow/illinifellow/assets/5318928/e03df630-b6aa-4d4b-b003-c21299964c48" height="14px" />
