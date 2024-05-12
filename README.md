@@ -18,7 +18,7 @@ I help startups unleash their full potential by crafting elegant, sturdy, and sc
       With a deep expertise in ReactJS, NextJS and tons of other frontend technologies, I create elegant and powerful user interfaces that not only attract but retain attention. My focus is on developing responsive, visually appealing, user-friendly frontends that elevate the user experience and enhance interaction.
     </td>
     <td>
-      <img src="https://github.com/illinifellow/illinifellow/assets/5318928/437f21ac-e149-4fc8-ad87-f2f7678baaa6" height="14px" />
+      <img src="https://github.com/illinifellow/illinifellow/assets/5318928/501fcc38-2f9b-4f6f-9ced-1b78cb251753" height="14px" />
       <h4>API & microservices development</h4>
       From drafting to delivering, I specialize in developing sophisticated APIs and microservices solutions using Javascript and/or Python, ensuring seamless integration and scalable architecture. My strategic approach optimizes backend processes for efficiency and future growth, making the system robust and adaptable ensuring a solid foundation for a product.
     </td>
@@ -30,7 +30,7 @@ I help startups unleash their full potential by crafting elegant, sturdy, and sc
       I build robust mobile applications for iOS and Android using the Expo ecosystem, focusing on dashboard tools that require round-the-clock management, immediate access and real-time notifications. I utilize Expo to cost-effectively build fast and reliable apps that are tailored to the specific needs of a service operations, ensuring a solid support or addition for a product.
     </td>
     <td>
-      <img src="https://github.com/illinifellow/illinifellow/assets/5318928/8f178905-fcf3-4cf8-9f3e-c33d947068a" height="14px" />
+      <img src="https://github.com/illinifellow/illinifellow/assets/5318928/1a48979e-6334-4cdd-99df-d57e65cafc43" height="14px" />
       <h4>Live streaming</h4>
      As an experienced live streaming producer, editor, and engineer, I have managed dozens of successful projects ranging from live music to social broadcasts. I engineer custom streaming solutions using cutting-edge hardware and software technologies, ensuring smooth production and top-quality content delivery, regardless of scale and complexity.
     </td>
