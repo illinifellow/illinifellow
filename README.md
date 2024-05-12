@@ -10,7 +10,7 @@ I help startups unleash their full potential by crafting elegant, sturdy, and sc
     <td>
       <img src="https://github.com/illinifellow/illinifellow/assets/5318928/09a33ecf-d885-4596-8c09-1cd1baff8a08" height="14px" />
       <h4>Custom solutions engineering</h4>
-      I craft custom solutions for startups facing tight deadlines, limited resources and uncertain roadmaps. Whether it's a VR shopping experiences, advanced geospatial data visualization platform for real estate and urban development or a tool for visualizing AI-interpreted MRI studies for radiology, my engineering solutions help startups prove concepts and transform challenging scenarios into opportunities.
+      I craft custom solutions for startups facing tight deadlines, limited resources and uncertain roadmaps. Whether it's a VR shopping experiences, geospatial data visualization platform for real estate and urban development or a tool for visualizing AI-interpreted MRI studies for radiology, my engineering solutions help startups prove concepts and transform challenging scenarios into opportunities.
     </td>
     <td>
       <img src="https://github.com/illinifellow/illinifellow/assets/5318928/2ae96147-50d3-495a-942e-744a830691ee" height="14px" />
@@ -37,7 +37,7 @@ I help startups unleash their full potential by crafting elegant, sturdy, and sc
     <td>
       <img src="https://github.com/illinifellow/illinifellow/assets/5318928/e03df630-b6aa-4d4b-b003-c21299964c48" height="14px" />
       <h4>Volunteering</h4>
-      In <a href="https://instagram.com/international_aid_legion" target="_blank">International Aid Legion</a>, I focus on tech and logistics in projects aimed at sourcing and delivering medical aid and equipment, ambulances and specialized/evacuation transport. During the years of the full-scale war in Ukraine, we have delivered tons of medical supplies and more than 200 vehicles, enabling providing aid to and evacuation of over 35,000 militaries, civilians and animals from combat zones.
+      In <a href="https://instagram.com/international_aid_legion" target="_blank">International Aid Legion</a>, I focus on tech and logistics in projects aimed at sourcing and delivering medical aid and equipment, ambulances and specialized/evacuation transport. During the years of the war in Ukraine, we have delivered tons of medical supplies and more than 200 vehicles, enabling providing aid to and evacuation of over 35,000 civilians and animals from combat zones.
     </td>
   </tr>
 </table>
