@@ -15,7 +15,7 @@ I help startups unleash their full potential by crafting elegant, sturdy, and sc
     <td>
       <img src="https://github.com/illinifellow/illinifellow/assets/5318928/2ae96147-50d3-495a-942e-744a830691ee" height="14px" />
       <h4>Frontend software development</h4>
-      With a deep expertise in ReactJS, NextJS and tons of other frontend technologies, I create elegant and powerful user interfaces that not only attract but retain attention. My focus is on developing responsive, visually appealing, user-friendly frontends that elevate the user experience and enhance interaction.
+      With deep expertise in ReactJS, NextJS and a broad array of other frontend technologies, I produce elegant and powerful user interfaces that captivate and engage users. My approach focus on creating responsive, visually appealing and user-friendly frontends that not only elevate the user experience but also enhance interaction proudly serving as the distinguished face of a product.
     </td>
     <td>
       <img src="https://github.com/illinifellow/illinifellow/assets/5318928/501fcc38-2f9b-4f6f-9ced-1b78cb251753" height="14px" />
