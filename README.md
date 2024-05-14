@@ -31,13 +31,13 @@ I help startups unleash their full potential by crafting elegant, sturdy, and sc
     </td>
     <td>
       <img src="https://github.com/illinifellow/illinifellow/assets/5318928/1a48979e-6334-4cdd-99df-d57e65cafc43" height="14px" />
-      <h4>Live streaming</h4>
+      <h4>Live streaming production</h4>
       <p>As an experienced live streaming producer, editor and engineer, in collaboration with <a href="https://www.instagram.com/khutko.pro">khutko team</a>, I have managed dozens of successful projects ranging from live music to social broadcasts. I engineer and manage custom streaming solutions using cutting-edge network, hardware and software technologies, ensuring smooth production and top-quality content delivery, regardless of scale and complexity.</p>
     </td>
     <td>
       <img src="https://github.com/illinifellow/illinifellow/assets/5318928/e03df630-b6aa-4d4b-b003-c21299964c48" height="14px" />
       <h4>Volunteering</h4>
-      <p>In <a href="https://instagram.com/international_aid_legion" target="_blank">International Aid Legion</a>, I focus on tech and logistics in projects aimed at sourcing and delivering medical aid and equipment, ambulances and specialized/evacuation transport. During the years of the war in Ukraine, we have delivered tons of medical supplies and more than 200 vehicles, enabling providing aid to and evacuation of over 35,000 civilians and animals from combat zones.</p>
+      <p>At <a href="https://instagram.com/international_aid_legion" target="_blank">International Aid Legion</a>, I focus on tech and logistics in projects aimed at sourcing and delivering medical aid and equipment, ambulances and specialized/evacuation transport, having delivered tons of medical supplies and more than 200 vehicles during the years of the war in Ukraine, enabling providing aid to and evacuation of over 35,000 civilians and animals from combat zones.</p>
     </td>
   </tr>
 </table>
