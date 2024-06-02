@@ -2,9 +2,6 @@
 
 # Poplavok Café in Dnipro
 
-![Poplavok Café Exterior](https://upload.wikimedia.org/wikipedia/commons/5/52/%D0%9A%D0%B0%D1%84%D0%B5_%D0%9F%D0%BE%D0%BF%D0%BB%D0%B0%D0%B2%D0%BE%D0%BA.jpg)
-*Poplavok Café as seen from the Dnipro River.*
-
 "Poplavok" Café, also known as "Float Café," is a well-known establishment in Dnipro, Ukraine, situated along the picturesque Dnipro River. It has been a beloved spot for both locals and visitors for many years, offering a unique combination of dining and scenic views.
 
 ## History and Background
@@ -14,9 +11,6 @@ Poplavok Café was established in the 1960s during the Soviet era. The name "Pop
 ## Architecture and Design
 
 The architectural style of Poplavok Café is characterized by its practical yet charming design, combining elements of Soviet modernism with nautical themes. The structure is supported by pontoons, allowing it to float on the river. Large windows and open-air seating provide diners with panoramic views of the river and the surrounding landscape. Over the years, the café has undergone several renovations to maintain its structural integrity and aesthetic appeal.
-
-![Poplavok Café Interior](https://upload.wikimedia.org/wikipedia/commons/4/4b/%D0%9A%D0%B0%D1%84%D0%B5_%D0%9F%D0%BE%D0%BF%D0%BB%D0%B0%D0%B2%D0%BE%D0%BA_%D0%B2%D0%BD%D1%83%D1%82%D1%80%D0%B8.jpg)
-*Inside Poplavok Café, offering stunning river views.*
 
 ## Culinary Offerings
 
