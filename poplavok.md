@@ -1,4 +1,4 @@
-![IMG_3019](https://github.com/illinifellow/illinifellow/assets/5318928/ed879e7f-c22a-4e07-b70e-50ff17fb7fd7)
+![ololo](https://github-production-user-asset-6210df.s3.amazonaws.com/5318928/277862647-486a8a74-d2a6-4755-962d-d4b44e3fa916.jpeg)
 
 # Poplavok Café in Dnipro
 
@@ -8,6 +8,7 @@
 
 Poplavok Café was established in the 1960s during the Soviet era. The name "Poplavok," which translates to "float" in English, aptly reflects its location and design. The café was built on a floating platform, creating the sensation of dining on the water. This innovative design made it one of the first floating cafés in the region, setting it apart from other dining establishments in the city.
 
+![IMG_3019](https://github.com/illinifellow/illinifellow/assets/5318928/ed879e7f-c22a-4e07-b70e-50ff17fb7fd7)
 ## Architecture and Design
 
 The architectural style of Poplavok Café is characterized by its practical yet charming design, combining elements of Soviet modernism with nautical themes. The structure is supported by pontoons, allowing it to float on the river. Large windows and open-air seating provide diners with panoramic views of the river and the surrounding landscape. Over the years, the café has undergone several renovations to maintain its structural integrity and aesthetic appeal.
