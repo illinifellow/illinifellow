@@ -1,4 +1,4 @@
-![ololo](https://github-production-user-asset-6210df.s3.amazonaws.com/5318928/277862647-486a8a74-d2a6-4755-962d-d4b44e3fa916.jpeg)
+![IMG_3019](https://github.com/illinifellow/illinifellow/assets/5318928/69b81f77-fa7b-493f-8550-f5668f41fe86)
 
 # Poplavok Café in Dnipro
 
