@@ -1,4 +1,4 @@
-# MRI Viewer
+# Radiology MRI Viewer
 <iframe src="/projects/mri-viewer"></iframe>
 
 ![iframe](https://github.com/user-attachments/assets/c7b648c8-e9f4-4095-af34-54982a902384)
