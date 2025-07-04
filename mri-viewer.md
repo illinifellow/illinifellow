@@ -1,11 +1,53 @@
-# MRI Viewer
-<iframe src="/projects/mri-viewer"></iframe>
+![harkiv_2020_2_fl](https://github.com/illinifellow/illinifellow/assets/5318928/385e1e52-80d9-43a8-9656-4e75efa9eba2)
+*Kharkiv is avant-garde outpost.*
 
-![iframe](https://github.com/user-attachments/assets/c7b648c8-e9f4-4095-af34-54982a902384)
-The MRI viewer, as a paradigmatic exemplar of modern medical visualization interfaces, constitutes not merely a tool but an epistemological lens through which the hidden architectures of the human form are rendered unto the clinical gaze. To refer to it as software would be a lamentable diminishment. It is, rather, a technological palimpsest wherein the invisible becomes decipherable, and the obscure—palpably immediate.
+# TEST POST: Gosprom Building in Kharkiv
 
-In its operatic ballet of voxel fidelity and cross-sectional finesse, the viewer orchestrates a symphony of magnetic resonance datasets, parsed and interpolated with surgical precision. The interface, austere yet impossibly capacious, allows the clinician not simply to observe, but to inhabit the anatomy—axially, coronally, sagittally—with a sovereign omniscience hitherto relegated to the divine.
+## History and Construction
 
-Indeed, the MRI viewer is less a utility than it is a philosophical proposition: that data, when rendered with sufficient mathematical elegance and computational force, becomes vision. And not mere sight, but clinical clairvoyance—unflinching, unimpeachable, and brutally objective.
+The Gosprom (State Industry) Building, located in Kharkiv, Ukraine, is a prominent example of constructivist architecture and a significant historical landmark. The building was constructed between 1925 and 1928 during a period of intense industrialization in the Soviet Union. It was designed to house the administrative offices of various state industries and was one of the first skyscrapers built in the Soviet Union.
 
-Its controls, minimal yet oracular, speak not to the pedestrian user, but to the initiated; those who understand that beneath each pixel lies a Fourier-transformed echo of biological truth. In this sense, the MRI viewer transcends its codebase. It becomes instrument, interlocutor, and, dare one say, priest of the radiological sacrament.
+### Architectural Vision
+
+The design of the Gosprom Building was the result of a collaborative effort by a team of architects led by Sergei Serafimov, S. Kravets, and M. Felger. The project aimed to embody the ideals of the Soviet Union's industrial progress and modernist architectural principles. The building's constructivist style emphasized functionality, geometric forms, and the use of new construction technologies.
+
+## Architectural Design
+
+The Gosprom Building is celebrated for its bold, geometric design and its pioneering use of reinforced concrete. It stands as a testament to the innovative spirit of its time and remains a striking example of early Soviet modernism.
+
+### Key Architectural Features:
+
+1. **Reinforced Concrete Structure:**
+   - The Gosprom Building was one of the earliest structures in the world to be built using reinforced concrete. This material allowed for greater flexibility in design and the creation of large, open interior spaces.
+
+2. **Modular Design:**
+   - The building's design features a series of interconnected blocks arranged in a U-shape. This modular approach not only facilitated efficient use of space but also provided structural stability.
+
+3. **Vertical and Horizontal Emphasis:**
+   - The architecture of Gosprom emphasizes both vertical and horizontal lines, creating a dynamic visual impact. Tall, narrow windows and vertical concrete elements draw the eye upward, while horizontal bands of windows and balconies create a sense of balance.
+
+4. **Functional Aesthetics:**
+   - True to constructivist principles, the design of Gosprom focuses on functionality. The building includes large office spaces, meeting rooms, and facilities designed to support the administrative needs of state industries.
+
+### Structural Engineering
+
+The construction of Gosprom was a significant engineering achievement of its time. The use of reinforced concrete allowed for the creation of a high-rise structure that was both strong and flexible. The building's foundation was carefully designed to support its considerable weight, and the modular construction ensured stability and resilience.
+
+## Renovations and Preservation
+
+Over the years, the Gosprom Building has undergone several renovations to preserve its structural integrity and historical value. These efforts have included:
+
+- **Restoration of Facades:**
+  - The exterior facades have been carefully restored to maintain the original appearance while addressing issues of wear and tear.
+
+- **Modernization of Interiors:**
+  - Interior spaces have been updated to meet modern standards of safety and comfort while preserving key architectural elements.
+
+- **Preservation of Historical Elements:**
+  - Efforts have been made to preserve and restore original design features, such as the distinctive windows, balconies, and interior details.
+
+## Cultural and Architectural Significance
+
+The Gosprom Building holds significant cultural and architectural importance. It is a symbol of Kharkiv's industrial heritage and a remarkable example of constructivist architecture. The building's innovative design and construction techniques have earned it a place in architectural history.
+
+Today, Gosprom continues to function as an office building and remains a key landmark in Kharkiv. It stands as a monument to the architectural and engineering achievements of the early Soviet era and a testament to the visionary ideas of its creators.
