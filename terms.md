@@ -3,12 +3,7 @@ title: "Terms of Service"
 date: "2026-09-03T00:00:00Z"
 listed: false
 ---
-
-# Terms of Service
-
 This site is a personal website run by Ivan Novikov. These terms are short because the site is simple: it publishes writing and pictures, and it lets people leave comments.
-
-Last updated 3 September 2026.
 
 ## Using the site
 

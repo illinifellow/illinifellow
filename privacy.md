@@ -3,12 +3,7 @@ title: "Privacy Policy"
 date: "2026-09-03T00:00:00Z"
 listed: false
 ---
-
-# Privacy Policy
-
 This site is a personal website run by Ivan Novikov. It is not a company, it sells nothing, and it has no advertising. This page says exactly what it does with data, because most of the time it does very little.
-
-Last updated 3 September 2026.
 
 ## What is collected
 
